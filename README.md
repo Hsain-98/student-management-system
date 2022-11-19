@@ -1,7 +1,5 @@
 # Student Management System
 
-## Technologies
-
 In this poject I implement different CRUD operations using:
 - **Spring Boot**
 - **Thymleaf** 
