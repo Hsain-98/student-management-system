@@ -6,7 +6,7 @@ In this poject I implement different CRUD operations using:
 - **Spring Boot**
 - **Thymleaf** 
 - **Bootstrap**
-- **PostgreSQL:**
+- **PostgreSQL**
 
 ## Application Architecture
 
