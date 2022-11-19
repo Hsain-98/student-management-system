@@ -3,9 +3,10 @@
 ## Technologies
 
 In this poject I implement different CRUD operations using:
-- **Spring Boot:**
-- **Thymleaf:** 
--  **PostgreSQL:**
+- **Spring Boot**
+- **Thymleaf** 
+- **Bootstrap**
+- **PostgreSQL:**
 
 ## Application Architecture
 
