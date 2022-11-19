@@ -4,7 +4,7 @@
 
 The application consists of 3 different UIs:
 
-- Student List: Shows list of all students existed in database (PostgreSQL)
+- [Student List: ]Shows list of all students existed in database (PostgreSQL)
 
 <img src=student_list.png>
 
